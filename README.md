@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-  <img src="https://avatars.githubusercontent.com/u/132763650?v=4" height=100px>
+  <img src="https://github.com/29thSarangi/29thSarangi/blob/main/giphy.gif">
   <div id="badges">
     <a href="https://www.linkedin.com/in/pallab-sarangi-424644275/">
       <img src="https://www.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -18,6 +18,8 @@
   Hey you,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  
+  
    
   <div>
   <p> I am <b>Pallab Sarangi.</b> A 19 year old aspiring web dev. <p>
