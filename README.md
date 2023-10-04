@@ -34,7 +34,7 @@
   
   ---
   
-  ###:hammer_and_wrench:Language & Tools:
+  :hammer_and_wrench:Language & Tools:
   <div>
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg?plain=1" width="60">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg?plain=1" width="60">
