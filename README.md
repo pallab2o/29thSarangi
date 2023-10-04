@@ -23,13 +23,11 @@
    
   <p> I am <b>Pallab Sarangi.</b> An entusiastic 19 year old student from India. </p>
   <p> Currently pursuing my <b>Btech</b> in <b>Computer Science</b> from <b>RNS Institute of Technology, Bangalore</b>. I am always keen to learn new technologies and how they effect the world around us.</p>
-  <p> <ul>Currently Learning:
+  <ul>Currently Learning:
     <li>MERN Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
     <li>Blender</li>
     <li>Flutter</li>
   </ul>
-  
-  </p>
     
   <em> "Rather than always being on the lookout for oppurtunities, I believe in creating oppurtunities myself."</em>
   </div>
@@ -43,13 +41,8 @@
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg?plain=1" width="60">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" width="60">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
-    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
-    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
-    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
-    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original-wordmark.svg" width="60">
      <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="60">
-     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" width="60">
      <!--<img src="" width="60">
      <img src="" width="60">
      <img src="" width="60">
