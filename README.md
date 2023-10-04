@@ -14,22 +14,20 @@
   
  <img src="https://komarev.com/ghpvc/?username=29thSarangi&style=flat-square&color=blue" alt=""/>
   
-  <h1>
-  Hi Code Enthusiasts,
+  <h2>
+  Hello Visitors,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h2>
+  <h4>Welcome to my Github page</h4>
   
   <div>
    
-  <p> I am <b>Pallab Sarangi.</b> A 19 year old techie from Odisha, India. </p>
-  <p> Currently pursuing my <b>Btech</b> in <b>Computer Science</b> from <b>RNS Institute of Technology, Bangalore</b>. I have always been keen to learn new technologies and how they effect the world around us. </p>
-  <b>Currently Learning:</b>
-  <ul style="text-align:Left;">
-    <li>MERN Stack</li>
-    <li>Blender</li>
-    <li>Flutter</li>
-  </ul>
-    
+  <p> I am <b>Pallab Sarangi</b>. A 19 year old techie from Odisha, India. </p>
+  <p> Currently pursuing my <b>Btech</b> in <b>Computer Science</b> from <b>RNS Institute of Technology, Bangalore</b>.</p> 
+  <p>I have always been keen about new technologies and understanding how they effect the world around us.</p> 
+
+  ---
+  
   <em> "Rather than always being on the lookout for oppurtunities, I believe in creating oppurtunities myself."</em>
   </div>
   
