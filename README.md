@@ -21,9 +21,15 @@
   
   <div>
    
-  <p> I am <b>Pallab Sarangi.</b> A 19 year old aspiring web dev from India. </p>
-  <p> Currently pursuing my <b>Btech</b> in <b>Computer Science</b>, I am always keen to learn something new.</p>
-  <p> Learning Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+  <p> I am <b>Pallab Sarangi.</b> An entusiastic 19 year old student from India. </p>
+  <p> Currently pursuing my <b>Btech</b> in <b>Computer Science</b> from <b>RNS Institute of Technology, Bangalore</b>. I am always keen to learn new technologies and how they effect the world around us.</p>
+  <p> <ul>Currently Learning:
+    <li>MERN Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
+    <li>Blender</li>
+    <li>Flutter</li>
+  </ul>
+  
+  </p>
     
   <em> "Rather than always being on the lookout for oppurtunities, I believe in creating oppurtunities myself."</em>
   </div>
@@ -35,6 +41,7 @@
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg?plain=1" width="60">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg?plain=1" width="60">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg?plain=1" width="60">
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   </div>
   
   ---
