@@ -15,7 +15,7 @@
  <img src="https://komarev.com/ghpvc/?username=29thSarangi&style=flat-square&color=blue" alt=""/>
   
   <h1>
-  Hey You,
+  Hi Code Enthusiasts,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
@@ -41,15 +41,32 @@
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg?plain=1" width="60">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg?plain=1" width="60">
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg?plain=1" width="60">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original-wordmark.svg" width="60">
+     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="60">
+     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" width="60">
+     <!--<img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">
+     <img src="" width="60">-->
+     
+    
+    
   </div>
   
-  ---
-   <div align="center">
-  🔥My Stats:
-  </div>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=29thSarangi&theme=dark&type=png)](https://git.io/streak-stats)
 
   
   
