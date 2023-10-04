@@ -21,10 +21,11 @@
   
   <div>
    
-  <p> I am <b>Pallab Sarangi.</b> An entusiastic 19 year old student from India. </p>
-  <p> Currently pursuing my <b>Btech</b> in <b>Computer Science</b> from <b>RNS Institute of Technology, Bangalore</b>. I am always keen to learn new technologies and how they effect the world around us.</p>
-  <ul>Currently Learning:
-    <li>MERN Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
+  <p> I am <b>Pallab Sarangi.</b> A 19 year old techie from Odisha, India. </p>
+  <p> Currently pursuing my <b>Btech</b> in <b>Computer Science</b> from <b>RNS Institute of Technology, Bangalore</b>. I have always been keen to learn new technologies and how they effect the world around us. </p>
+  <b>Currently Learning:</b>
+  <ul style="text-align:Left;">
+    <li>MERN Stack</li>
     <li>Blender</li>
     <li>Flutter</li>
   </ul>
